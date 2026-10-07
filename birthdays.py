@@ -1,4 +1,3 @@
-
 '''
 Practice using git with a simple repo
 '''
